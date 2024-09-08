@@ -1,8 +1,11 @@
+## Bão? 🤙🏼
+<div>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DubielaODestruidor&show_icons=true&theme=tokyonight"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DubielaoDestruidor&layout=compact&theme=tokyonight"/>
+</div>
+<!-- 
+## Hi there 👋
 ## 🌟 Github Stats
-
-[![DubielaODestruidor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DubielaODestruidor&show_icons=true&theme=tokyonight)](https://github.com/DubielaODestruidor)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DubielaoDestruidor&layout=compact&theme=tokyonight)](https://github.com/DubielaODestruidor)
-<!-- ## Hi there 👋
 **DubielaODestruidor/DubielaODestruidor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
